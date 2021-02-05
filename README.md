@@ -5,7 +5,8 @@ Serverless functions for DSP backend functionality.
 
 ## Configure
 
-Create a `.env` file with the following information:
+~~Create a `.env` file with the following information:~~ 
+Add the following secrets to Vercel:
 
     DSP1_AWS_ACCESS_KEY_ID=***
     DSP1_AWS_SECRET_ACCESS_KEY=***
